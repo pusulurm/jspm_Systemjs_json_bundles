@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<script type="text/javascript" src="/jspm_packages/system.js"></script>
+		<script type="text/javascript" src="config.js"></script>
+		<script>
+			System.import('main');
+		</script>
+	</head>
+	<body ng-app="mainModule" ng-controller="mainController">
+		<h1>JSPM Sample</h1></br>
+		<label translate="MAIN.KEY1"></label></br>
+		{{message}}
+		<my-directive1></my-directive1>
+		<my-directive2></my-directive2>
+	</body>
+</html>

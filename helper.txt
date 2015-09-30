@@ -1,0 +1,3 @@
+http://plnkr.co/edit/n6MEMU?p=info
+https://github.com/systemjs/builder/issues/41
+http://patrickwalters.net/my-best-practices-for-aurelia-bundling-and-minification/
